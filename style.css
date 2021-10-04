@@ -1,0 +1,23 @@
+h1 {color: red;
+    font-weight: normal;
+    letter-spacing:.3px;
+    margin-bottom: 1px;
+    text-transform: uppercase;
+}
+
+#Dosa{
+    color:purple;
+}
+
+.Recipe{
+    color:purple;
+}
+
+h3,h4{
+    color:red;
+}
+
+h2{
+    color:maroon;
+}
+
